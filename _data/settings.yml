@@ -55,7 +55,7 @@ projects:
 - {name: 'Kakao Pay', folder: 'proj-2', file: 'projects/proj-2.html'}
 - {name: 'Born to be <br/> Hero ', folder: 'proj-3', file: 'projects/proj-3.html'}
 - {name: 'Travel Alone', folder: 'proj-4', file: 'projects/proj-4.html'}
-- {name: 'Project Five', folder: 'proj-5', file: 'projects/proj-5.html'}
+- {name: 'Youtube', folder: 'proj-5', file: 'projects/proj-5.html'}
 
 #-------------------------------
 # Contact Section
