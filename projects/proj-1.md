@@ -3,7 +3,7 @@ layout: post
 title: 'SM TOWN @coexartium'
 ---
 ### <font color='#000000'> 에스엠타운 코엑스아티움 SUM </font> <br/>
-_개인작업 100%_
+_개인작업 100%_ <br/>
 _사운드 서울예술대학교 음악학부 실용음악과 13 김태원_ <br/><br/> _Adobe Photoshop_ <br/>
 _Adobe Illustrator_ <br/>
 _Adobe After Effects_ <br/>
