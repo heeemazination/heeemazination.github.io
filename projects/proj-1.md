@@ -1,8 +1,11 @@
 ---
 layout: post
-title: <font color='DF2462'>'SM TOWN @coexartium'</font>
+title: 'SM TOWN @coexartium'
 ---
-Mauris velit metus, tempor gravida nulla eget, auctor accumsan tellus. Curabitur volutpat sed dolor quis tempus. In scelerisque aliquam felis at tincidunt. Proin non augue fringilla, [pretium justo vitae](#), maximus dui. Nunc ipsum nisi, fermentum sit amet volutpat cursus, sodales ac nisl. Quisque nec tellus sem. Cras pharetra felis non quam mollis, nec efficitur lectus aliquet. Maecenas ipsum felis, eleifend nec [semper venenatis](#), consequat ut nunc. Donec est augue, facilisis quis placerat sed, imperdiet sit amet neque. Maecenas nec risus metus. Nunc non condimentum ipsum. Phasellus consectetur dapibus massa, convallis iaculis nisi vestibulum id. Phasellus et fringilla augue. Donec consequat dui ut rutrum elementum. Aenean nisi arcu, ornare eu lacus vel, faucibus tempor tortor.
+에스엠타운 코엑스아티움 SUM   개인작업 100%   사운드 서울예술대학교 음악학부 실용음악과 13 김태원 <br/><br/> _Adobe Photoshop_   _Adobe Illustrator_   _Adobe After Effects_   _Autodesk MAYA_ <br/><br/>
+__아티스트를 만나는 새로운 공간!__ <br/><br/>
+SM 아티스트 관련 상품을 판매하는 SUM 매장을 홍보하기 위한 영상입니다.
+다양한 즐길 거리를 보여주기 위해 레트로 게임 메타포를 차용하였고   실제 매장을 구현하기 위해 3D그래픽으로 제작하였습니다. <br/>
 
 {% include image.html url="http://www.gratisography.com" image="projects/proj-1/dog.jpg" %}
 
