@@ -10,7 +10,7 @@ SM 아티스트 관련 상품을 판매하는 SUM 매장을 홍보하기 위한 
 {% include image.html url="https://youtu.be/8HQpCHcSSxI" image="projects/proj-1/screenshot.jpg" %} <br/>
 **_<center> ✨Storyboard✨ </center>_** <br/>
 ![storyboard](https://user-images.githubusercontent.com/59524785/105287080-d517f200-5bfa-11eb-91f8-3649a074227d.jpg) <br/> <br/>
-**_<center> ✨Process✨ </center>_** <br/> <br/>
+**_<center> ✨Process✨ </center>_** <br/>
 ![process](https://user-images.githubusercontent.com/59524785/105317021-0dbcc900-5c05-11eb-8ade-00037e4957ca.jpg) <br/> <br/>
 **_<center> ✨Visual Concept✨ </center>_** <br/>
 ![item](https://user-images.githubusercontent.com/59524785/105317310-67bd8e80-5c05-11eb-8f5f-c26067d9dea7.gif) <br/> <br/>
