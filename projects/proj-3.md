@@ -14,10 +14,7 @@ __주인공 편애!__ <br/>
 **_<center> ✨Sketch & Graphic✨ </center>_** <br/>
 ![sketch1](https://user-images.githubusercontent.com/59524785/105345534-bb40d400-5c27-11eb-9e65-5348989fb9f7.jpg) <br/>
 ![sketch2](https://user-images.githubusercontent.com/59524785/105345602-cd227700-5c27-11eb-8bf0-c5e671592d3c.jpg) <br/>
-![shine](https://user-images.githubusercontent.com/59524785/105345903-2f7b7780-5c28-11eb-8309-c565d9508c0a.png) <br/>
-![graphic](https://user-images.githubusercontent.com/59524785/105333057-a0b32e80-5c18-11eb-86a1-3b21f045fed0.jpg)
-
-
+![graphic](https://user-images.githubusercontent.com/59524785/105333057-a0b32e80-5c18-11eb-86a1-3b21f045fed0.jpg) <br/> <br/>
 ###### _Adobe Photoshop_ <br/>
 ###### _Adobe Illustrator_ <br/>
 ###### _Wacom_ <br/>
