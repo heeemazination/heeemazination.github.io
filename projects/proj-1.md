@@ -2,10 +2,17 @@
 layout: post
 title: 'SM TOWN @coexartium'
 ---
-에스엠타운 코엑스아티움 SUM   개인작업 100%   사운드 서울예술대학교 음악학부 실용음악과 13 김태원 <br/><br/> _Adobe Photoshop_   _Adobe Illustrator_   _Adobe After Effects_   _Autodesk MAYA_ <br/><br/>
+에스엠타운 코엑스아티움 SUM <br/>
+개인작업 100%<br/>
+사운드 서울예술대학교 음악학부 실용음악과 13 김태원 <br/><br/> 
+_Adobe Photoshop_ <br/>   
+_Adobe Illustrator_ <br/>   
+_Adobe After Effects_ <br/>   
+_Autodesk MAYA_ <br/><br/>
 __아티스트를 만나는 새로운 공간!__ <br/><br/>
-SM 아티스트 관련 상품을 판매하는 SUM 매장을 홍보하기 위한 영상입니다.
-다양한 즐길 거리를 보여주기 위해 레트로 게임 메타포를 차용하였고   실제 매장을 구현하기 위해 3D그래픽으로 제작하였습니다. <br/>
+SM 아티스트 관련 상품을 판매하는 SUM 매장을 홍보하기 위한 영상입니다. <br/>
+다양한 즐길 거리를 보여주기 위해 레트로 게임 메타포를 차용하였고 <br/>
+실제 매장을 구현하기 위해 3D그래픽으로 제작하였습니다. <br/>
 
 {% include image.html url="http://www.gratisography.com" image="projects/proj-1/dog.jpg" %}
 
