@@ -11,7 +11,7 @@ SM 아티스트 관련 상품을 판매하는 SUM 매장을 홍보하기 위한 
 
 {% include image.html url="https://youtu.be/8HQpCHcSSxI" image="projects/proj-1/screenshot.jpg" %} <br/><br/>
 **_Process_** <br/>
-{% include image.html url="null" image="projects/proj-1/storyboard.jpg" %}
+{% image="projects/proj-1/storyboard.jpg" %}
 
 
 _사운드 서울예술대학교 음악학부 실용음악과 13 김태원_ <br/><br/> _Adobe Photoshop_ <br/>
