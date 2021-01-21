@@ -17,4 +17,4 @@ SM 아티스트 관련 상품을 판매하는 SUM 매장을 홍보하기 위한 
 Process
 
 
-<image="projects/proj-1/storyboard.jpg">
+<img="projects/proj-1/storyboard.jpg">
