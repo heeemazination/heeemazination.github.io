@@ -8,7 +8,7 @@ SM 아티스트 관련 상품을 판매하는 SUM 매장을 홍보하기 위한 
 다양한 즐길 거리를 보여주기 위해 레트로 게임 메타포를 차용하였고 <br/>
 실제 매장을 구현하기 위해 3D그래픽으로 제작하였습니다. <br/>
 {% include image.html url="https://youtu.be/8HQpCHcSSxI" image="projects/proj-1/screenshot.jpg" %} <br/>
-<center> **_Process_** </center> <br/>
+**_<center> Process </center>_** <br/>
 ![storyboard](https://user-images.githubusercontent.com/59524785/105287080-d517f200-5bfa-11eb-91f8-3649a074227d.jpg)
 
 
