@@ -13,7 +13,7 @@ __간편하고 쉬운 결제!__ <br/>
 ![storyboard](https://user-images.githubusercontent.com/59524785/105324027-339a9b80-5c0e-11eb-9f87-6f47a9a8116c.jpg) <br/> <br/>
 **_<center> ✨Sketch & Artwork✨ </center>_** <br/>
 ![grandfa](https://user-images.githubusercontent.com/59524785/105328565-8296ff80-5c13-11eb-9602-4a9e8208e2a4.gif) <br/>
-![last](https://user-images.githubusercontent.com/59524785/105330295-78760080-5c15-11eb-83d0-17e2c2d9ad31.gif)
+![last](https://user-images.githubusercontent.com/59524785/105331187-824c3380-5c16-11eb-8437-3283892dae20.gif)
 
 
 ###### _Adobe Illustrator_ <br/>
