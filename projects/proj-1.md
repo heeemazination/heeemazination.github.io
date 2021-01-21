@@ -2,13 +2,13 @@
 layout: post
 title: 'SM TOWN @coexartium'
 ---
-<font color='#000000'> 에스엠타운 코엑스아티움 SUM </font> <br/> _개인작업 100%_ <br/> <br/>
+<span style="color:#000000"> 에스엠타운 코엑스아티움 SUM </span> <br/> _개인작업 100%_ <br/> <br/>
 __아티스트를 만나는 새로운 공간!__ <br/>
 SM 아티스트 관련 상품을 판매하는 SUM 매장을 홍보하기 위한 영상입니다. <br/>
 다양한 즐길 거리를 보여주기 위해 레트로 게임 메타포를 차용하였고 <br/>
 실제 매장을 구현하기 위해 3D그래픽으로 제작하였습니다. <br/>
 {% include image.html url="https://youtu.be/8HQpCHcSSxI" image="projects/proj-1/screenshot.jpg" %} <br/>
-**_Process_** <br/>
+<center> **_Process_** </center> <br/>
 ![storyboard](https://user-images.githubusercontent.com/59524785/105287080-d517f200-5bfa-11eb-91f8-3649a074227d.jpg)
 
 
