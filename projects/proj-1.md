@@ -15,4 +15,4 @@ SM 아티스트 관련 상품을 판매하는 SUM 매장을 홍보하기 위한 
 
 {% include image.html url="https://youtu.be/8HQpCHcSSxI" image="projects/proj-1/screenshot.jpg" %} <br/><br/>
 Process
-[imgae](projects/proj-1/storyboard.jpg)
+[image](projects/proj-1/storyboard.jpg)
