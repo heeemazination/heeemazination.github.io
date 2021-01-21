@@ -14,5 +14,5 @@ SM 아티스트 관련 상품을 판매하는 SUM 매장을 홍보하기 위한 
 실제 매장을 구현하기 위해 3D그래픽으로 제작하였습니다. <br/>
 
 {% include image.html url="https://youtu.be/8HQpCHcSSxI" image="projects/proj-1/screenshot.jpg" %} <br/><br/>
-Process
+Process <br/>
 [image](projects/proj-1/storyboard.jpg)
