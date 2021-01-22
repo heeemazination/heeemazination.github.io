@@ -17,7 +17,7 @@ SoRi's BFF 소리뷰패피 <br/>
 ![sorinotsorry_transition_vintage](https://user-images.githubusercontent.com/59524785/105348310-83d42680-5c2b-11eb-8187-7a4209e281b9.jpg) <br/>
 ![g01](https://user-images.githubusercontent.com/59524785/105348345-92224280-5c2b-11eb-8497-10ae6a1bf8fd.gif) <br/>
 ![g03](https://user-images.githubusercontent.com/59524785/105350332-56d54300-5c2e-11eb-8a49-e6108db12e6e.jpg) <br/>
-![g02](https://user-images.githubusercontent.com/59524785/105350222-29889500-5c2e-11eb-82a4-cc33b0c32ed2.jpg) <br/> <br/>
+![g04](https://user-images.githubusercontent.com/59524785/105454987-28a34200-5cc6-11eb-84f6-6e10a3185996.jpg) <br/> <br/>
 ###### _Adobe Photoshop_ <br/>
 ###### _Adobe Illustrator_ <br/>
 ###### _Adobe Premiere Pro_ <br/>
