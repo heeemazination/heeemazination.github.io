@@ -11,7 +11,7 @@ __주인공 편애!__ <br/>
 각 영화의 대표 이미지를 패턴화하여 영화 속 무드를 연장시키고자 하였습니다. <br/> <br/>
 **_<center> ✨Layout✨ </center>_** <br/>
 ![layout](https://user-images.githubusercontent.com/59524785/105332982-8e38f500-5c18-11eb-8b3b-0f853c03a478.jpg) <br/>
-![layout2](https://user-images.githubusercontent.com/59524785/105445600-b32e7600-5cb3-11eb-8d3d-8262a2461141.jpg) <br/> <br/>
+![layout2](https://user-images.githubusercontent.com/59524785/105447138-fb9b6300-5cb6-11eb-9630-911138ad4b28.jpg) <br/> <br/>
 **_<center> ✨Sketch & Graphic✨ </center>_** <br/>
 ![sketch2](https://user-images.githubusercontent.com/59524785/105345602-cd227700-5c27-11eb-8bf0-c5e671592d3c.jpg) <br/>
 ![graphic](https://user-images.githubusercontent.com/59524785/105333057-a0b32e80-5c18-11eb-86a1-3b21f045fed0.jpg) <br/> <br/>
