@@ -15,7 +15,7 @@ __혼자 떠나볼까!__ <br/>
 ![travel_sketch](https://user-images.githubusercontent.com/59524785/105333801-7d3cb380-5c19-11eb-966b-0733eb420f1d.jpg) <br/> <br/>
 **_<center> ✨Sketch & Graphic✨ </center>_** <br/>
 ![paper](https://user-images.githubusercontent.com/59524785/105449739-4cfa2100-5cbc-11eb-9f8b-778017159b9e.jpg) <br/>
-![sketch](https://user-images.githubusercontent.com/59524785/105450765-86339080-5cbe-11eb-8797-6c385aba2f71.gif) <br/> <br/>
+![sketch](https://user-images.githubusercontent.com/59524785/105451104-3f926600-5cbf-11eb-9937-3728ceb109f9.gif) <br/> <br/>
 ###### _Adobe Photoshop_ <br/>
 ###### _Adobe Illustrator_ <br/>
 ###### _Paper Craft_ <br/>
