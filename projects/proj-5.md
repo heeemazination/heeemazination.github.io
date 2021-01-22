@@ -8,7 +8,7 @@ __SoriNotSorry!소리 <br/>
 233K subscribers <br/>
 SoRi's BFF 소리뷰패피 <br/>
 17.5K subscribers__ <br/> <br/>
-2019/ - 2020/04 <br/> <br/>
+2019/11 - 2020/05 <br/> <br/>
 **_<center> ✨Video✨ </center>_** <br/>
 {% include image.html url="https://youtu.be/VqQCBKV5Crc" image="projects/proj-5/v01.jpg" %} <br/>
 {% include image.html url="https://youtu.be/reGfwDPNkBo" image="projects/proj-5/v02.jpg" %} <br/>
